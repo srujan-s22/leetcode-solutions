@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/srujan-s22/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/srujan-s22/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/srujan-s22/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/srujan-s22/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
